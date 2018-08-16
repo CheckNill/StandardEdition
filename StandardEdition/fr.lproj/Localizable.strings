@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  StandardEdition
+
+  Created by Tony on 2018/8/16.
+  Copyright © 2018年 Tony. All rights reserved.
+*/
+"Set TouchID"="Set TouchID";
+"Set Number password"="Set Number password";
+"Category Manager"="Category Manager";
+"About us"="A propos de nous";
+"Saving ..."="Sauvegarder ...";
+"Search With nickName"="Rechercher avec nickName";
+"Cancel"="Annuler";
+"please select catagory"="veuillez sélectionner la catégorie";
+"OK"="OK";
+"nickName can't be nil"="nickName ne peut pas être nul";
+"Edit Category"="Modifier la catégorie";
+"create catagory"="créer une catégorie";
+"please inter catagory name"="s'il vous plaît inter catagory name";
+"Version"="Version";
+"Tuoch ID can be used to retrieve and modified numeric passwords"="Tuoch ID peut être utilisé pour récupérer et modifier les mots de passe numériques";
+"Verify Password"="Vérifier le mot de passe";
+"Setting Password"="Définition du mot de passe";
+"Confirm Password"="Confirmer le mot de passe";
+"Dense successor success"="Succès du successeur dense";
+"Dense school losing loss"="Perte scolaire intense";
+"no information!"="aucune information!";
+
+

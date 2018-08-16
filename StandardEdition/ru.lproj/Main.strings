@@ -1,0 +1,96 @@
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "0Dr-J8-izF"; */
+"0Dr-J8-izF.title" = "Поиск";
+
+/* Class = "UITextField"; placeholder = "please inter Email address"; ObjectID = "0wF-Wg-gZH"; */
+"0wF-Wg-gZH.placeholder" = "пожалуйста, адрес электронной почты";
+
+/* Class = "UITextField"; placeholder = "please select Category"; ObjectID = "1qe-Ls-1DK"; */
+"1qe-Ls-1DK.placeholder" = "выберите категорию";
+
+/* Class = "UILabel"; text = "未分组"; ObjectID = "7kd-4y-7GZ"; */
+"7kd-4y-7GZ.text" = "Нет группы";
+
+/* Class = "UITextField"; placeholder = "please inter webSite"; ObjectID = "8nb-Tn-Nmz"; */
+"8nb-Tn-Nmz.placeholder" = "пожалуйста, inter webSite";
+
+/* Class = "UIButton"; normalTitle = "forget password"; ObjectID = "Azs-Yg-d69"; */
+"Azs-Yg-d69.normalTitle" = "Забыли пароль";
+
+/* Class = "UISearchBar"; placeholder = "Search with nickName"; ObjectID = "BIL-uc-vQR"; */
+"BIL-uc-vQR.placeholder" = "Поиск с nickName";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "BIb-3Q-Ub4"; */
+"BIb-3Q-Ub4.text" = "Имя пользователя:";
+
+/* Class = "UILabel"; text = "the APP Developer Shanghai Gubei Xinhong Labor Service Co., Ltd. All Rights ReservedApp "; ObjectID = "EiR-Nj-1u6"; */
+"EiR-Nj-1u6.text" = "разработчик APP Shanghai Gubei Xinhong Labor Service Co., Ltd. Все права защищеныApp";
+
+/* Class = "UILabel"; text = "If you use a numeric password, you can reset it after logging in"; ObjectID = "GY5-Kt-cKC"; */
+"GY5-Kt-cKC.text" = "Если вы используете числовой пароль, вы можете сбросить его после входа в систему";
+
+/* Class = "UILabel"; text = "Password:   "; ObjectID = "HTo-dM-bxP"; */
+"HTo-dM-bxP.text" = "пароль:   ";
+
+/* Class = "UILabel"; text = "Category:    "; ObjectID = "JhW-P5-ygv"; */
+"JhW-P5-ygv.text" = "категория:    ";
+
+/* Class = "UILabel"; text = "Web   Site:  "; ObjectID = "PRB-0c-zlp"; */
+"PRB-0c-zlp.text" = "Веб-сайт:  ";
+
+/* Class = "UILabel"; text = "Email Add:   "; ObjectID = "Pxm-0F-doQ"; */
+"Pxm-0F-doQ.text" = "Отправить:   ";
+
+/* Class = "UILabel"; text = "Description: A numeric password is used as a login password to protect your information."; ObjectID = "QLi-5l-nbB"; */
+"QLi-5l-nbB.text" = "Описание: цифровой пароль используется как пароль для входа в систему для защиты вашей информации.";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "Ry9-8g-rZx"; */
+"Ry9-8g-rZx.title" = "настройка";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "SIn-vK-udg"; */
+"SIn-vK-udg.title" = "редактировать";
+
+/* Class = "UITextField"; placeholder = "please inter userName"; ObjectID = "TJx-Vz-Zd9"; */
+"TJx-Vz-Zd9.placeholder" = "пожалуйста, inter userName";
+
+/* Class = "UILabel"; text = "Forgot your password"; ObjectID = "UBT-53-bP9"; */
+"UBT-53-bP9.text" = "Забыли пароль";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "WWU-NH-7Si"; */
+"WWU-NH-7Si.text" = "Версия 1.0";
+
+/* Class = "UINavigationItem"; title = "Category"; ObjectID = "X4r-kz-mxB"; */
+"X4r-kz-mxB.title" = "категория";
+
+/* Class = "UILabel"; text = "未分组"; ObjectID = "X8g-fZ-p8d"; */
+"X8g-fZ-p8d.text" = "нет группы";
+
+/* Class = "UILabel"; text = "Copyright@ 2018"; ObjectID = "Xjd-Kk-Dwk"; */
+"Xjd-Kk-Dwk.text" = "Copyright@ 2018";
+
+/* Class = "UILabel"; text = "Please enter your password"; ObjectID = "bXb-ka-7aK"; */
+"bXb-ka-7aK.text" = "Пожалуйста введите ваш пароль";
+
+/* Class = "UILabel"; text = "Nick Name:"; ObjectID = "bcr-Ao-QAe"; */
+"bcr-Ao-QAe.text" = "Имя Ник:";
+
+/* Class = "UITextField"; placeholder = "please inter password"; ObjectID = "cPR-HG-cCS"; */
+"cPR-HG-cCS.placeholder" = "пожалуйста, введите пароль";
+
+/* Class = "UITextField"; placeholder = "please inter remark"; ObjectID = "ffL-Zw-kNz"; */
+"ffL-Zw-kNz.placeholder" = "пожалуйста, обратите внимание";
+
+/* Class = "UILabel"; text = "Remark:       "; ObjectID = "kO0-so-4LG"; */
+"kO0-so-4LG.text" = "замечание:       ";
+
+/* Class = "UILabel"; text = "Modify the numeric password"; ObjectID = "qsU-RI-USH"; */
+"qsU-RI-USH.text" = "Изменить числовой пароль";
+
+/* Class = "UITextField"; placeholder = "please inter nickName"; ObjectID = "tOZ-7A-aBH"; */
+"tOZ-7A-aBH.placeholder" = "пожалуйста, inter nickName";
+
+/* Class = "UILabel"; text = "Verify Password"; ObjectID = "uV7-m3-ZMw"; */
+"uV7-m3-ZMw.text" = "подтвердите пароль";
+
+/* Class = "UILabel"; text = "Use a numeric password"; ObjectID = "voF-qM-CnF"; */
+"voF-qM-CnF.text" = "Использовать числовой пароль";

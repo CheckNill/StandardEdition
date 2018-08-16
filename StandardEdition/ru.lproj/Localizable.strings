@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  StandardEdition
+
+  Created by Tony on 2018/8/16.
+  Copyright © 2018年 Tony. All rights reserved.
+*/
+"Set TouchID"="Set TouchID";
+"Set Number password"="Установить пароль номера";
+"Category Manager"="Менеджер категорий";
+"About us"="О нас";
+"Saving ..."="Сохранение ...";
+"Search With nickName"="Поиск с nickName";
+"Cancel"="Отменить";
+"please select catagory"="пожалуйста, выберите catagory";
+"OK"="OK";
+"nickName can't be nil"="nickName не может быть nil";
+"Edit Category"="Изменить категорию";
+"create catagory"="создать catagory";
+"please inter catagory name"="пожалуйста, введите имя для каждой категории";
+"Version"="Версия";
+"Tuoch ID can be used to retrieve and modified numeric passwords"="Идентификатор Tuoch можно использовать для извлечения и изменения числовых паролей";
+"Verify Password"="Verify Password";
+"Setting Password"="Настройка пароля";
+"Confirm Password"="Подтвердить пароль";
+"Dense successor success"="Плотный успех преемника";
+"Dense school losing loss"="Плотная школа теряет убытки";
+"no information!"="нет информации!";
+
+
+

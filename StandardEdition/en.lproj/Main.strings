@@ -1,0 +1,96 @@
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "0Dr-J8-izF"; */
+"0Dr-J8-izF.title" = "Search";
+
+/* Class = "UITextField"; placeholder = "please inter Email address"; ObjectID = "0wF-Wg-gZH"; */
+"0wF-Wg-gZH.placeholder" = "please inter Email address";
+
+/* Class = "UITextField"; placeholder = "please select Category"; ObjectID = "1qe-Ls-1DK"; */
+"1qe-Ls-1DK.placeholder" = "please select Category";
+
+/* Class = "UILabel"; text = "未分组"; ObjectID = "7kd-4y-7GZ"; */
+"7kd-4y-7GZ.text" = "NOGroup";
+
+/* Class = "UITextField"; placeholder = "please inter webSite"; ObjectID = "8nb-Tn-Nmz"; */
+"8nb-Tn-Nmz.placeholder" = "please inter webSite";
+
+/* Class = "UIButton"; normalTitle = "forget password"; ObjectID = "Azs-Yg-d69"; */
+"Azs-Yg-d69.normalTitle" = "forget password";
+
+/* Class = "UISearchBar"; placeholder = "Search with nickName"; ObjectID = "BIL-uc-vQR"; */
+"BIL-uc-vQR.placeholder" = "Search with nickName";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "BIb-3Q-Ub4"; */
+"BIb-3Q-Ub4.text" = "User Name:";
+
+/* Class = "UILabel"; text = "the APP Developer Shanghai Gubei Xinhong Labor Service Co., Ltd. All Rights ReservedApp "; ObjectID = "EiR-Nj-1u6"; */
+"EiR-Nj-1u6.text" = "the APP Developer Shanghai Gubei Xinhong Labor Service Co., Ltd. All Rights ReservedApp ";
+
+/* Class = "UILabel"; text = "If you use a numeric password, you can reset it after logging in"; ObjectID = "GY5-Kt-cKC"; */
+"GY5-Kt-cKC.text" = "If you use a numeric password, you can reset it after logging in";
+
+/* Class = "UILabel"; text = "Password:   "; ObjectID = "HTo-dM-bxP"; */
+"HTo-dM-bxP.text" = "Password:   ";
+
+/* Class = "UILabel"; text = "Category:    "; ObjectID = "JhW-P5-ygv"; */
+"JhW-P5-ygv.text" = "Category:    ";
+
+/* Class = "UILabel"; text = "Web   Site:  "; ObjectID = "PRB-0c-zlp"; */
+"PRB-0c-zlp.text" = "Web   Site:  ";
+
+/* Class = "UILabel"; text = "Email Add:   "; ObjectID = "Pxm-0F-doQ"; */
+"Pxm-0F-doQ.text" = "Email Add:   ";
+
+/* Class = "UILabel"; text = "Description: A numeric password is used as a login password to protect your information."; ObjectID = "QLi-5l-nbB"; */
+"QLi-5l-nbB.text" = "Description: A numeric password is used as a login password to protect your information.";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "Ry9-8g-rZx"; */
+"Ry9-8g-rZx.title" = "Setting";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "SIn-vK-udg"; */
+"SIn-vK-udg.title" = "Edit";
+
+/* Class = "UITextField"; placeholder = "please inter userName"; ObjectID = "TJx-Vz-Zd9"; */
+"TJx-Vz-Zd9.placeholder" = "please inter userName";
+
+/* Class = "UILabel"; text = "Forgot your password"; ObjectID = "UBT-53-bP9"; */
+"UBT-53-bP9.text" = "Forgot your password";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "WWU-NH-7Si"; */
+"WWU-NH-7Si.text" = "Version 1.0";
+
+/* Class = "UINavigationItem"; title = "Category"; ObjectID = "X4r-kz-mxB"; */
+"X4r-kz-mxB.title" = "Category";
+
+/* Class = "UILabel"; text = "未分组"; ObjectID = "X8g-fZ-p8d"; */
+"X8g-fZ-p8d.text" = "NOGroup";
+
+/* Class = "UILabel"; text = "Copyright@ 2018"; ObjectID = "Xjd-Kk-Dwk"; */
+"Xjd-Kk-Dwk.text" = "Copyright@ 2018";
+
+/* Class = "UILabel"; text = "Please enter your password"; ObjectID = "bXb-ka-7aK"; */
+"bXb-ka-7aK.text" = "Please enter your password";
+
+/* Class = "UILabel"; text = "Nick Name:"; ObjectID = "bcr-Ao-QAe"; */
+"bcr-Ao-QAe.text" = "Nick Name:";
+
+/* Class = "UITextField"; placeholder = "please inter password"; ObjectID = "cPR-HG-cCS"; */
+"cPR-HG-cCS.placeholder" = "please inter password";
+
+/* Class = "UITextField"; placeholder = "please inter remark"; ObjectID = "ffL-Zw-kNz"; */
+"ffL-Zw-kNz.placeholder" = "please inter remark";
+
+/* Class = "UILabel"; text = "Remark:       "; ObjectID = "kO0-so-4LG"; */
+"kO0-so-4LG.text" = "Remark:       ";
+
+/* Class = "UILabel"; text = "Modify the numeric password"; ObjectID = "qsU-RI-USH"; */
+"qsU-RI-USH.text" = "Modify the numeric password";
+
+/* Class = "UITextField"; placeholder = "please inter nickName"; ObjectID = "tOZ-7A-aBH"; */
+"tOZ-7A-aBH.placeholder" = "please inter nickName";
+
+/* Class = "UILabel"; text = "Verify Password"; ObjectID = "uV7-m3-ZMw"; */
+"uV7-m3-ZMw.text" = "Verify Password";
+
+/* Class = "UILabel"; text = "Use a numeric password"; ObjectID = "voF-qM-CnF"; */
+"voF-qM-CnF.text" = "Use a numeric password";

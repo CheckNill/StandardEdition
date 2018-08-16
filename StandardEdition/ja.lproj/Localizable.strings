@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  StandardEdition
+
+  Created by Tony on 2018/8/16.
+  Copyright © 2018年 Tony. All rights reserved.
+*/
+"Set TouchID"="タッチIDを設定";
+"Set Number password"="番号パスワードを設定する";
+"Category Manager"="カテゴリマネージャ";
+"About us"="私たちについて";
+"Saving ..."="保存...";
+"Search With nickName"="ニックネームで検索";
+"Cancel"="キャンセル";
+"please select catagory"="catagoryを選択してください";
+"OK"="OK";
+"nickName can't be nil"="ニックネームはnilにできません";
+"Edit Category"="カテゴリの編集";
+"create catagory"="作成するcatagory";
+"please inter catagory name"="を入力してください";
+"Version"="Version";
+"Tuoch ID can be used to retrieve and modified numeric passwords"="Tuoch IDを使用して数値パスワードを取得および変更することができます";
+"Verify Password"="Verify Password";
+"Setting Password"="設定パスワード";
+"Confirm Password"="パスワードの確認";
+"Dense successor success"="後者の密集者";
+"Dense school losing loss"="密度の高い学校の損失";
+"no information!"="情報なし!";
+
+

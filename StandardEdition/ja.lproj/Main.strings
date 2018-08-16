@@ -1,0 +1,96 @@
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "0Dr-J8-izF"; */
+"0Dr-J8-izF.title" = "練習する";
+
+/* Class = "UITextField"; placeholder = "please inter Email address"; ObjectID = "0wF-Wg-gZH"; */
+"0wF-Wg-gZH.placeholder" = "メールアドレスを入力してください";
+
+/* Class = "UITextField"; placeholder = "please select Category"; ObjectID = "1qe-Ls-1DK"; */
+"1qe-Ls-1DK.placeholder" = "カテゴリを選択してください";
+
+/* Class = "UILabel"; text = "未分组"; ObjectID = "7kd-4y-7GZ"; */
+"7kd-4y-7GZ.text" = "グループなし";
+
+/* Class = "UITextField"; placeholder = "please inter webSite"; ObjectID = "8nb-Tn-Nmz"; */
+"8nb-Tn-Nmz.placeholder" = "ウェブサイトをご利用ください";
+
+/* Class = "UIButton"; normalTitle = "forget password"; ObjectID = "Azs-Yg-d69"; */
+"Azs-Yg-d69.normalTitle" = "パスワードを忘れる";
+
+/* Class = "UISearchBar"; placeholder = "Search with nickName"; ObjectID = "BIL-uc-vQR"; */
+"BIL-uc-vQR.placeholder" = "ニックネームで検索";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "BIb-3Q-Ub4"; */
+"BIb-3Q-Ub4.text" = "ユーザー名:";
+
+/* Class = "UILabel"; text = "the APP Developer Shanghai Gubei Xinhong Labor Service Co., Ltd. All Rights ReservedApp "; ObjectID = "EiR-Nj-1u6"; */
+"EiR-Nj-1u6.text" = "APP開発者上海湖北新興労働サービス株式会社All Rights ReservedApp ";
+
+/* Class = "UILabel"; text = "If you use a numeric password, you can reset it after logging in"; ObjectID = "GY5-Kt-cKC"; */
+"GY5-Kt-cKC.text" = "数値のパスワードを使用する場合は、ログイン後にリセットすることができます";
+
+/* Class = "UILabel"; text = "Password:   "; ObjectID = "HTo-dM-bxP"; */
+"HTo-dM-bxP.text" = "パスワード:   ";
+
+/* Class = "UILabel"; text = "Category:    "; ObjectID = "JhW-P5-ygv"; */
+"JhW-P5-ygv.text" = "カテゴリー:    ";
+
+/* Class = "UILabel"; text = "Web   Site:  "; ObjectID = "PRB-0c-zlp"; */
+"PRB-0c-zlp.text" = "ウェブサイト:  ";
+
+/* Class = "UILabel"; text = "Email Add:   "; ObjectID = "Pxm-0F-doQ"; */
+"Pxm-0F-doQ.text" = "電子:   ";
+
+/* Class = "UILabel"; text = "Description: A numeric password is used as a login password to protect your information."; ObjectID = "QLi-5l-nbB"; */
+"QLi-5l-nbB.text" = "説明：数字のパスワードは、情報を保護するためのログインパスワードとして使用されます.";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "Ry9-8g-rZx"; */
+"Ry9-8g-rZx.title" = "設定";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "SIn-vK-udg"; */
+"SIn-vK-udg.title" = "編集";
+
+/* Class = "UITextField"; placeholder = "please inter userName"; ObjectID = "TJx-Vz-Zd9"; */
+"TJx-Vz-Zd9.placeholder" = "userNameを入力してください";
+
+/* Class = "UILabel"; text = "Forgot your password"; ObjectID = "UBT-53-bP9"; */
+"UBT-53-bP9.text" = "パスワードをお忘れですか";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "WWU-NH-7Si"; */
+"WWU-NH-7Si.text" = "バージョン1.0";
+
+/* Class = "UINavigationItem"; title = "Category"; ObjectID = "X4r-kz-mxB"; */
+"X4r-kz-mxB.title" = "カテゴリー";
+
+/* Class = "UILabel"; text = "未分组"; ObjectID = "X8g-fZ-p8d"; */
+"X8g-fZ-p8d.text" = "グループなし";
+
+/* Class = "UILabel"; text = "Copyright@ 2018"; ObjectID = "Xjd-Kk-Dwk"; */
+"Xjd-Kk-Dwk.text" = "Copyright@ 2018";
+
+/* Class = "UILabel"; text = "Please enter your password"; ObjectID = "bXb-ka-7aK"; */
+"bXb-ka-7aK.text" = "パスワードを入力してください";
+
+/* Class = "UILabel"; text = "Nick Name:"; ObjectID = "bcr-Ao-QAe"; */
+"bcr-Ao-QAe.text" = "ニックネーム:";
+
+/* Class = "UITextField"; placeholder = "please inter password"; ObjectID = "cPR-HG-cCS"; */
+"cPR-HG-cCS.placeholder" = "パスワードを入力してください";
+
+/* Class = "UITextField"; placeholder = "please inter remark"; ObjectID = "ffL-Zw-kNz"; */
+"ffL-Zw-kNz.placeholder" = "コメントしてください";
+
+/* Class = "UILabel"; text = "Remark:       "; ObjectID = "kO0-so-4LG"; */
+"kO0-so-4LG.text" = "リマーク:       ";
+
+/* Class = "UILabel"; text = "Modify the numeric password"; ObjectID = "qsU-RI-USH"; */
+"qsU-RI-USH.text" = "数値のパスワードを変更する";
+
+/* Class = "UITextField"; placeholder = "please inter nickName"; ObjectID = "tOZ-7A-aBH"; */
+"tOZ-7A-aBH.placeholder" = "ニックネームを入力してください";
+
+/* Class = "UILabel"; text = "Verify Password"; ObjectID = "uV7-m3-ZMw"; */
+"uV7-m3-ZMw.text" = "パスワードを照合します";
+
+/* Class = "UILabel"; text = "Use a numeric password"; ObjectID = "voF-qM-CnF"; */
+"voF-qM-CnF.text" = "数値のパスワードを使用する";

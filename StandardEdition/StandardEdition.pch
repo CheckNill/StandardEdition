@@ -1,0 +1,34 @@
+//
+//  StandardEdition.pch
+//  StandardEdition
+//
+//  Created by Tony on 2018/8/14.
+//  Copyright © 2018年 Tony. All rights reserved.
+//
+
+#ifndef StandardEdition_pch
+#define StandardEdition_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "SSFMDBManager.h"
+#import <Masonry.h>
+#import "SSErrorView.h"
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import "UIColor+Extension.h"
+#import <SVProgressHUD.h>
+#import "UIView+Extension.h"
+#import "VerifyPasswordController.h"
+#import "BaseNavController.h"
+#import "SSNetWork.h"
+#define iPhoneX ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1125, 2436), [[UIScreen mainScreen] currentMode].size) : NO)
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+#define TopHeight (iPhoneX ? 88.0 :64.0)
+#define StatusBarHeight (iPhoneX ? 44.0 :20.0)
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+#define COLOR_BACKGROUND [UIColor colorWithRed:244.0/255. green:244.0/255. blue:244.0/255. alpha:1]
+#define SS_STR(key)  NSLocalizedString(key, nil)
+
+#endif /* StandardEdition_pch */
